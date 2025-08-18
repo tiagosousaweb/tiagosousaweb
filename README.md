@@ -15,3 +15,10 @@
 </div>
 
 ![Snake animation](https://github.com/tiagosousaweb/tiagosousaweb/blob/main/github-user-contribution.svg)
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=tiagosousaweb&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+</p>
+
